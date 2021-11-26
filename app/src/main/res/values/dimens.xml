@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- new items -->
+
+    <!--ingredients dimens-->
+    <dimen name="text_ingredient_title">16sp</dimen>
+    <dimen name="text_ingredient_detail">11sp</dimen>
+
+    <dimen name="text_recipe_list_title">15sp</dimen>
+    <dimen name="text_recipe_list_detail">11sp</dimen>
+
+    <dimen name="text_recipe_detail_title">22sp</dimen>
+    <dimen name="text_recipe_detail_detail">12sp</dimen>
+    <dimen name="text_recipe_detail_ingredients">12sp</dimen>
+
+    <dimen name="text_nutrition_detail_title">18sp</dimen>
+    <dimen name="text_nutrition_detail_label">14sp</dimen>
+    <dimen name="text_nutrition_detail_amount">14sp</dimen>
+
+    <dimen name="text_ingredients_filter_title">30sp</dimen>
+    <dimen name="text_ingredients_filter_detail">14sp</dimen>
+
+    <dimen name="text_ingredients_add_title">20sp</dimen>
+    <dimen name="text_ingredients_add_detail">14sp</dimen>
+
+    <dimen name="text_ingredients_delete_title">20sp</dimen>
+    <dimen name="text_ingredients_delete_detail">14sp</dimen>
+
+    <!--nav drawer stuff-->
+    <dimen name="text_drawer_detail">12sp</dimen>
+    <dimen name="text_drawer_header">16sp</dimen>
+
+</resources>

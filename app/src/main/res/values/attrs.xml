@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ingredient list styles-->
+    <attr name="ingredientsListTitle" format="reference" />
+    <attr name="ingredientsListDetail" format="reference" />
+    <attr name="recipeListDetail" format="reference" />
+    <attr name="recipeListTitle" format="reference" />
+    <attr name="recipeDetailTitle" format="reference" />
+    <attr name="recipeDetailDetail" format="reference" />
+    <attr name="recipeDetailIngredients" format="reference" />
+    <attr name="nutritionTitle" format="reference" />
+    <attr name="nutritionLabel" format="reference" />
+    <attr name="nutritionAmount" format="reference" />
+    <attr name="ingredientsFilterTitle" format="reference" />
+    <attr name="ingredientsFilterDetail" format="reference" />
+    <attr name="ingredientsAddTitle" format="reference" />
+    <attr name="ingredientsAddDetail" format="reference" />
+    <attr name="ingredientsDeleteTitle" format="reference" />
+    <attr name="ingredientsDeleteDetail" format="reference" />
+
+    <!--drawer section-->
+    <attr name="drawerDetail" format="reference" />
+
+
+    <attr name="pageBackground" format="reference" />
+    <attr name="textSubheader" format="reference" />
+
+    <attr name="textRegular" format="reference" />
+    <attr name="whiteBackground" format="reference" />
+    <attr name="button" format="reference" />
+    <attr name="spinner" format="reference" />
+</resources>
